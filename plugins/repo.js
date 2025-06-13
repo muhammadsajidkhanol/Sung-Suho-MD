@@ -41,7 +41,7 @@ lite({
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
                 newsletterJid: 'https://whatsapp.com/channel/0029VbAZuFFCBtxLljSGkS05',
-                newsletterName: 'sᴜɴɢ sᴜʜᴏ ʀᴇᴘᴏ',
+                newsletterName: 'DOLLAR',
                 serverMessageId: 143
             }
         };
