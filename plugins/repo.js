@@ -40,7 +40,7 @@ lite({
             forwardingScore: 999,
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
-                newsletterJid: '120363398430045533@newsletter',
+                newsletterJid: 'https://whatsapp.com/channel/0029VbAZuFFCBtxLljSGkS05',
                 newsletterName: 'sᴜɴɢ sᴜʜᴏ ʀᴇᴘᴏ',
                 serverMessageId: 143
             }
