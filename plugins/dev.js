@@ -15,7 +15,7 @@ lite({
         const name = pushname || "there";
 
         const text = `
-╭─⌈ *SUHO-MD DEV* ⌋
+╭─⌈ *DOLLAR-MD DEV* ⌋
 │
 │ 👋 Hello *${name}*,
 │
@@ -24,13 +24,13 @@ lite({
 │
 │ 👨‍💻 *OWNER DETAILS:*
 │ ───────────────
-│ 🧠 *Name* : Mr Sung
-│ 🕯️ *Age* : +20
-│ ☎️ *Contact* : wa.me/27813374457
-│ ▶️ *YouTube* :
-│    https://youtube.com/@malvintech2
+│ 🧠 *Name* : DOLLAR
+│ 🕯️ *Age* : +25
+│ ☎️ *Contact* : wa.me/923404469538
+│ ▶️ channel* :
+│    https://whatsapp.com/channel/0029VbAZuFFCBtxLljSGkS05
 │
-│ ⚡ Powered by *Mr Sung*
+│ ⚡ Powered by *DOLLAR*
 ╰───────────────`.trim();
 
         await conn.sendMessage(from, {
@@ -41,7 +41,7 @@ lite({
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363398430045533@newsletter',
+                    newsletterJid: 'channel',
                     newsletterName: '『 sᴜʜᴏ ᴍᴅ 』',
                     serverMessageId: 143
                 }
