@@ -40,7 +40,7 @@ lite({
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363398430045533@newsletter',
-                    newsletterName: 'sᴜɴɢ sᴜʜᴏ ᴍᴅ',
+                    newsletterName: 'DOLLAR',
                     serverMessageId: 143
                 }
             }
