@@ -49,7 +49,7 @@ lite({
     try {
         // Generate the formatted settings message with emojis
         const settingsMessage = `
-╭━━━〔 *SUHO MD SETTINGS* 〕━━━┈⊷
+╭━━━〔 *DOLLAR MD SETTINGS* 〕━━━┈⊷
 ┃ *📌 Current Configurations:*
 ┃──────────────────────
 ${generateSettingsList()}
@@ -70,7 +70,7 @@ ${generateSettingsList()}
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363398430045533@newsletter',
-                    newsletterName: "Sung Suho MD",
+                    newsletterName: "DOLLAR",
                     serverMessageId: 143
                 }
             }
