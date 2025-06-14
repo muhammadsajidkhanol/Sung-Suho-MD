@@ -6,13 +6,13 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "suho~hjEUwAwb#cdsloslv3fmMhn2hHbvu6-bn3O9fHR7MnYclvYvqLjY",
+    SESSION_ID: process.env.SESSION_ID || "suho~hnFxFS6C#60FF2oHLtCgt7N2Ix0zx8S-LDy2ruEUCoAMg9LGWCMY",
     // add your Session Id make sure it starts with suho~
 
     PREFIX: process.env.PREFIX || ".",
     // add your prefix for bot
 
-    BOT_NAME: process.env.BOT_NAME || "sᴜɴɢ-sᴜʜᴏ-ᴍᴅ",
+    BOT_NAME: process.env.BOT_NAME || "DOLLAR",
     // add bot name here for menu
 
     MODE: process.env.MODE || "public",
@@ -64,7 +64,7 @@ module.exports = {
 > ɢɪᴛʜᴜʙ : github.com/NaCkS-ai/SungSu-ho-MD`,
     // add alive msg here 
 
-    STICKER_NAME: process.env.STICKER_NAME || "ᴍᴀʟᴠɪɴ-xᴅ",
+    STICKER_NAME: process.env.STICKER_NAME || "ᴍDOLLAR",
     // type sticker pack name 
 
     CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
